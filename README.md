@@ -3,8 +3,9 @@
 코로나19 백신 접종 후기를 공유하는 플랫폼 입니다.
 
 
-[엘라](./HyuuunjuKim.md)
+[주모](./junmo.md)
 
+[엘라](./HyuuunjuKim.md)
 
 [검프](./gump.md)
 
